@@ -1,0 +1,3 @@
+rootProject.name = 'RNRobotoWeights'
+
+include ':app'
